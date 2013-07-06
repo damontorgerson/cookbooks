@@ -1,3 +1,9 @@
 [submodule "postgresql"]
 	path = postgresql
 	url = https://github.com/opscode-cookbooks/postgresql.git
+[submodule "database"]
+	path = database
+	url = https://github.com/opscode-cookbooks/database.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/opscode-cookbooks/openssl.git
