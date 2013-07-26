@@ -13,3 +13,6 @@
 [submodule "apt"]
 	path = apt
 	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "application_ruby"]
+	path = application_ruby
+	url = https://github.com/opscode-cookbooks/application_ruby.git
