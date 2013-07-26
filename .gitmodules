@@ -16,3 +16,6 @@
 [submodule "application_ruby"]
 	path = application_ruby
 	url = https://github.com/opscode-cookbooks/application_ruby.git
+[submodule "application"]
+	path = application
+	url = https://github.com/opscode-cookbooks/application.git
