@@ -22,3 +22,6 @@
 [submodule "aws"]
 	path = aws
 	url = https://github.com/opscode-cookbooks/aws.git
+[submodule "xfs"]
+	path = xfs
+	url = https://github.com/opscode-cookbooks/xfs.git
