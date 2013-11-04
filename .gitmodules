@@ -1,6 +1,3 @@
-[submodule "postgresql"]
-	path = postgresql
-	url = https://github.com/damontorgerson/postgresql.git
 [submodule "database"]
 	path = database
 	url = https://github.com/opscode-cookbooks/database.git
@@ -25,3 +22,6 @@
 [submodule "xfs"]
 	path = xfs
 	url = https://github.com/opscode-cookbooks/xfs.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/opscode-cookbooks/postgresql.git
